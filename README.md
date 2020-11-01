@@ -1,2 +1,4 @@
 # Identity-Access-Management
-Tools - Minikatz and LDAP
+Tools - Mimikatz and LDAP
+
+To know what is Mimikatz and the creation of LDAP in Linux machine (Ubuntu).
